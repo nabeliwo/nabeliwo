@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm nabeliwo.
 
-![](https://komarev.com/ghpvc/?username=nabeliwo&color=blue)
+![](https://komarev.com/ghpvc/?username=nabeliwo&color=3f90bf)
 
 <!--
 **nabeliwo/nabeliwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
